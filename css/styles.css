@@ -11732,3 +11732,13 @@ html {
     left: -2vw;
   }
 }
+
+.contact-icon {
+    width: 64px;
+    height: 64px;
+    border-radius: 16px;
+    background: linear-gradient(135deg, #7f00ff, #e100ff);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
